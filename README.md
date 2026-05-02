@@ -46,7 +46,6 @@ npm start
 <img width="1907" height="732" alt="Screenshot 2026-04-12 155114" src="https://github.com/user-attachments/assets/501b9246-3c7c-4f54-bba8-01443d0270bb" />
 <img width="1873" height="898" alt="Screenshot 2026-04-12 212441" src="https://github.com/user-attachments/assets/e19971d2-9253-41c5-93b3-0b81fb375779" />
 <img width="1882" height="905" alt="Screenshot 2026-04-12 194354" src="https://github.com/user-attachments/assets/154ae915-3d17-4ac1-9d4a-d3e4c4765c5a" />
-<img width="1749" height="444" alt="Screenshot 2026-04-12 200001" src="https://github.com/user-attachments/assets/a8f449ee-f1a1-4b88-ad32-ffc095448ce6" />
 <img width="1907" height="872" alt="Screenshot 2026-04-12 194954" src="https://github.com/user-attachments/assets/b3193976-b93f-417e-85e2-d17d3360c220" />
-
+<img width="1749" height="444" alt="Screenshot 2026-04-12 200001" src="https://github.com/user-attachments/assets/a8f449ee-f1a1-4b88-ad32-ffc095448ce6" />
 
